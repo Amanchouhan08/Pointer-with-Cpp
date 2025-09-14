@@ -1,3 +1,4 @@
+//this is the program to undersatand the concept of "Pass by Pointer".
 #include<iostream>
 using namespace std;
 void inc(int *ptr){
