@@ -1,3 +1,4 @@
+//In the program we pass the value of a,b to p and q.
 #include<iostream>
 using namespace std;
 void swaping(int p,int q){
