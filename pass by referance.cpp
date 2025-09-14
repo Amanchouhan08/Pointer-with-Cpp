@@ -1,3 +1,4 @@
+//in the program value of a,b and p,q take value as a reference means a=p=10 and b=q=20.
 #include<iostream>
 using namespace std;
 void swaping(int &p,int &q){
