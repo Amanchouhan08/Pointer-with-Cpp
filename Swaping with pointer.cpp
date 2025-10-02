@@ -1,3 +1,4 @@
+//swaping two integer using pointer.
 #include <iostream>
 using namespace std;
 void swping(int *p,int *q){
